@@ -41,7 +41,7 @@ UserAccount(),
         onTap: _navigateBottonNavBar,
         type: BottomNavigationBarType.fixed,
         items: [
-          BottomNavigationBarItem(icon: Icon(Icons.home),label: 'home'),
+          BottomNavigationBarItem(icon: Icon(Icons.home),label: 'Home'),
           BottomNavigationBarItem(icon: Icon(Icons.search),label: 'search'),
           BottomNavigationBarItem(icon: Icon(Icons.video_call),label: 'reels'),
           BottomNavigationBarItem(icon: Icon(Icons.store),label: 'store'),
