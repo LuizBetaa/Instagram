@@ -15,4 +15,4 @@ class MessageBackend {
     Message botReply = Message(sender: 'HumanFive', text: replyText, isMe: false);
     _messages.add(botReply);
   }
-}
+}//membuat logika pada bot 
